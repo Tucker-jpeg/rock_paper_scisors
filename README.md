@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 
-100 Days of Python Day 4 - Rock, paper scissors game. This project is to showcase my basic understanding of python modules, lists, and if statements.
+100 Days of Python Day 4 - Rock, paper scissors game. This project is to showcase my basic understanding of python modules, lists, randomization and if statements.
 
 ## Assumptions
 
